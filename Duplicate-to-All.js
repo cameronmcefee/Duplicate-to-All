@@ -1,15 +1,15 @@
 /* 
 
-   o----------------------o----------------------o
-           CAMERON McEFEE | 530.339.8372
-       New Media Designer | cm@cameronmcefee.com
-   o----------------------o----------------------o
-                 Thanks for looking!
+     o----------------------o----------------------o
+             CAMERON McEFEE | 530.339.8372
+         New Media Designer | cm@cameronmcefee.com
+     o----------------------o----------------------o
+                   Thanks for looking!
 
- Find Middle is a Photoshop script by Cameron McEfee.
+ Duplicate-To-All is a Photoshop script by Cameron McEfee.
 			 
-			    www.cameronmcefee.com
-				
+                  www.cameronmcefee.com
+				 
 */
 
 if( app.documents.length > 0 ){
