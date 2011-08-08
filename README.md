@@ -9,9 +9,9 @@ Put the javascript in your application scripts folder.
 - Windows (64 bit)*: \Program Files\Adobe Photoshop \Presets\Scripts\
 - Mac: /Applications/Adobe Photoshop /Presets/Scripts/
 
-Once it's there, restart photoshop. You can find the script at File>Scripts>Duplicate-To-All
+Once it's there, restart Photoshop. You can find the script at File>Scripts>Duplicate-To-All
 
-To use it, open all the documents that you wish to duplicate the layer into, as well as the document in which the layer exists. Simply select the layer you'd like to duplicate, and run the script. The layer will be duplicated into every open document.
+To use it, open all the documents that you wish to duplicate the layer into, as well as the document in which the layer exists. Simply select the layer(s) you'd like to duplicate, and run the script. The layer will be duplicated into every open document.
 
 
 
