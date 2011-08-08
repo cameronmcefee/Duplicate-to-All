@@ -5,9 +5,9 @@ How To
 
 Put the javascript in your application scripts folder.
 
-Windows (32 bit)*: \Program Files (x86)\Adobe Photoshop \Presets\Scripts\
-Windows (64 bit)*: \Program Files\Adobe Photoshop \Presets\Scripts\
-Mac: /Applications/Adobe Photoshop /Presets/Scripts/
+- Windows (32 bit)*: \Program Files (x86)\Adobe Photoshop \Presets\Scripts\
+- Windows (64 bit)*: \Program Files\Adobe Photoshop \Presets\Scripts\
+- Mac: /Applications/Adobe Photoshop /Presets/Scripts/
 
 Once it's there, restart photoshop. You can find the script at File>Scripts>Duplicate-To-All
 
