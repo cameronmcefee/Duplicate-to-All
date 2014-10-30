@@ -1,17 +1,3 @@
-/*
-
-     o----------------------o----------------------o
-             CAMERON McEFEE | 530.339.8372
-         New Media Designer | cm@cameronmcefee.com
-     o----------------------o----------------------o
-                   Thanks for looking!
-
- Duplicate-To-All is a Photoshop script by Cameron McEfee.
-
-                  www.cameronmcefee.com
-
-*/
-
 if( app.documents.length > 0 ){
   duplicateToAll();
 }
