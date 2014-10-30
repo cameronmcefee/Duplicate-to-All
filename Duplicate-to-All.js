@@ -22,11 +22,11 @@ function duplicateToAll(){
   for(var i = 0; i < docs.length; i++){
     if(curDoc != docs[i]){
       try {
-        var curLayer = docs[i].activeLayer;
-        curDoc.activeLayer.duplicate(docs[i],ElementPlacement.PLACEATBEGINNING);
+        var curLayer;
+        try { curLayer = docs[i].activeLayer; } catch(e) {};
         app.activeDocument = docs[i];
         app.activeDocument.activeLayer.name = 'Duplicate To All Group';
-        docs[i].activeLayer.move(curLayer, ElementPlacement.PLACEBEFORE);
+        if(curLayer){docs[i].activeLayer.move(curLayer, ElementPlacement.PLACEBEFORE);
         ungroupLayerset();
       } catch(e) {
         alert('"Duplicate to All" has encountered an error. Please email the text below to cm@cameronmcefee.com \n' + 'Error with PS Script: Duplicate to All at [duplicateToAll()] \n\n' + e);
